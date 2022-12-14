@@ -1,6 +1,6 @@
 # CS_250_SDLC
 Software Development Lifecycles 
-Gerardo Gonzalez
+ By Gerardo Gonzalez
 
 1. I interpret the user’s needs and use them as features that the user would like to have in the program or application. What helps with this is using User stories, and later using the user’s stories to make story points in order to create a list of tasks to complete in order to complete the user stories. 
 
